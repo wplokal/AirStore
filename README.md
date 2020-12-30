@@ -1,2 +1,2 @@
 # AirStore
-Air Studio Store - Testing
+Air Studio Theme X Woocommerce
