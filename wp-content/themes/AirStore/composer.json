@@ -1,0 +1,9 @@
+{
+    "require": {
+        "htmlburger/carbon-fields": "^3.1",
+        "symfony/filesystem": "^5.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.0"
+    }
+}
