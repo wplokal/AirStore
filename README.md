@@ -1,2 +1,2 @@
 # AirStore
-Air Studio Starter Theme WooCommerce
+Air Studio Store - Testing
