@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/air-starter-theme"]
+	path = wp-content/themes/air-starter-theme
+	url = https://github.com/wplokal/Air-Starter-Theme.git
